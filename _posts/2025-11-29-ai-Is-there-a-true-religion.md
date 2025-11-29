@@ -149,9 +149,13 @@ With an exclusive attitude on the one hand and different religious viewpoints on
 
 ## Footnotes
 
-> #### 1 Should it be argued that Pascal's approach is prejudicial because he belonged to the Christian tradition, then it must be remembered that these principles are not a product of the Christian faith. Whether these principles are true or false depends not on whether one is a Christian or not. They deal with facts that can be discussed in the context of any religion. These are questions that are common to all men, and can be verified from the experience of all men. {#footnote-1e}
+> #### 1 {#footnote-1e}
 >
-> #### 2 Pascal, Pensees, p. 191. {#footnote-2e}
+> Should it be argued that Pascal's approach is prejudicial because he belonged to the Christian tradition, then it must be remembered that these principles are not a product of the Christian faith. Whether these principles are true or false depends not on whether one is a Christian or not. They deal with facts that can be discussed in the context of any religion. These are questions that are common to all men, and can be verified from the experience of all men.
+>
+> #### 2 {#footnote-2e}
+>
+> Pascal, Pensees, p. 191.
 >
 > [3](#footnote-3s) {#footnote-3e} Van Harvey, Handbook of Theological Terms (New York: The Macmillan Co., 1964), p. 173.
 >
