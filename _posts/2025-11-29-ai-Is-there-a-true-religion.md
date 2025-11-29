@@ -21,7 +21,7 @@ If the discussion of a true religion is to be meaningful, it must have an object
 
 Blaise Pascal, the French scientific and religious genius of the seventeenth century proposed a beginning point for discussing the issue of a true religion that may be common to all people.
 
-Pascal attempted to put forth certain propositions, based in part on observation and in part on reason, which would help one to discover the true religion if it existed. Although Pascal never finished his proposed work, his fragmented thoughts (Pensées) have become one of the classics of world literature. Pascal's approach has a feature common to all men: each man may look, observe, and draw conclusions from where he is. It is really an inductive method.**[1](#footnote-1e)** {#footnote-1s} Pascal maintains that for a religion to be true, it must give an adequate and satisfactory answer to the following criteria.
+Pascal attempted to put forth certain propositions, based in part on observation and in part on reason, which would help one to discover the true religion if it existed. Although Pascal never finished his proposed work, his fragmented thoughts (Pensées) have become one of the classics of world literature. Pascal's approach has a feature common to all men: each man may look, observe, and draw conclusions from where he is. It is really an inductive method.**[1](#footnote-1e)** Pascal maintains that for a religion to be true, it must give an adequate and satisfactory answer to the following criteria.
 
 1. **The true religion teaches the hiddenness of God:** It is quite evident that if God is, he is not perceived by sensory perception. God is not an object that has been analyzed in the laboratory. If God exists, he exists in some hidden state or form; for we cannot see him. Concerning this, Pascal wrote, "God being thus hidden every religion which does not affirm that God is hidden is not true and every religion which does not give the reason of it, is not instructive."<sup>[2](#footnote-2e)</sup> {#footnote-2s} The hiddenness of God, or to use the Latin phrase, Deus absconditus, is a basic beginning point for dialogue among religious traditions.
 
@@ -149,9 +149,9 @@ With an exclusive attitude on the one hand and different religious viewpoints on
 
 ## Footnotes
 
-> [1](#footnote-1s) {#footnote-1e} Should it be argued that Pascal's approach is prejudicial because he belonged to the Christian tradition, then it must be remembered that these principles are not a product of the Christian faith. Whether these principles are true or false depends not on whether one is a Christian or not. They deal with facts that can be discussed in the context of any religion. These are questions that are common to all men, and can be verified from the experience of all men.
+> #### 1 Should it be argued that Pascal's approach is prejudicial because he belonged to the Christian tradition, then it must be remembered that these principles are not a product of the Christian faith. Whether these principles are true or false depends not on whether one is a Christian or not. They deal with facts that can be discussed in the context of any religion. These are questions that are common to all men, and can be verified from the experience of all men. {#footnote-1e}
 >
-> [2](#footnote-2s) {#footnote-2e} Pascal, Pensees, p. 191.
+> #### 2 Pascal, Pensees, p. 191. {#footnote-2e}
 >
 > [3](#footnote-3s) {#footnote-3e} Van Harvey, Handbook of Theological Terms (New York: The Macmillan Co., 1964), p. 173.
 >
