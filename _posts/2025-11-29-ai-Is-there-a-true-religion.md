@@ -151,51 +151,51 @@ With an exclusive attitude on the one hand and different religious viewpoints on
 
 > ###### 2 Pascal, Pensees, p. 191. {#footnote-2e}
 >
-> ###### 3 {#footnote-3e} Van Harvey, Handbook of Theological Terms (New York: The Macmillan Co., 1964), p. 173.
+> ###### 3 Van Harvey, Handbook of Theological Terms (New York: The Macmillan Co., 1964), p. 173. {#footnote-3e}
 >
-> ###### 4 {#footnote-4e} In asserting such a radical alternative, reference must be made to the "proofs" for the existence of God. The knowledge that one may gain in the arguments is a knowledge for the most part based on "effects" or works of God. It is not the kind of knowledge that will give direction to life nor even intimate that God may love or redeem man. A survey of the traditional proofs for the existence of God may be found at http://www.emporia.edu/socsci/philos/chp17.htm.
+> ###### 4 In asserting such a radical alternative, reference must be made to the "proofs" for the existence of God. The knowledge that one may gain in the arguments is a knowledge for the most part based on "effects" or works of God. It is not the kind of knowledge that will give direction to life nor even intimate that God may love or redeem man. A survey of the traditional proofs for the existence of God may be found at http://www.emporia.edu/socsci/philos/chp17.htm. {#footnote-4e}
 >
-> ###### 5 {#footnote-5e} The Christian Message in a Non-Christian World, p. 162.
+> ###### 5 The Christian Message in a Non-Christian World, p. 162. {#footnote-5e}
 >
-> ###### 6 (#footnote-6s) The avatar of Hinduism is quite different from the incarnation of Christianity, for the incarnation means that God assumed true human flesh. The avatar is a "mythological personification of a god conceived for a practical purpose, while the real divine is the attributeless and actionless pure essence" (Ibid., pp. 370-71). {: #footnote-6e}
+> ###### 6 The avatar of Hinduism is quite different from the incarnation of Christianity, for the incarnation means that God assumed true human flesh. The avatar is a "mythological personification of a god conceived for a practical purpose, while the real divine is the attributeless and actionless pure essence" (Ibid., pp. 370-71). {#footnote-6e}
 >
-> ###### 7 (#footnote-7s) Lionel Giles, The Sayings of Confucius (London: John Murray, 1917), p. 94. {: #footnote-7e}
+> ###### 7 Lionel Giles, The Sayings of Confucius (London: John Murray, 1917), p. 94. {#footnote-7e}
 >
-> ###### 8 (#footnote-8s) Edward J. Jurji, The Christian Interpretation of Religion (New York: The Macmillan Co., 1952), p. 183. {: #footnote-8e}
+> ###### 8 Edward J. Jurji, The Christian Interpretation of Religion (New York: The Macmillan Co., 1952), p. 183. {#footnote-8e}
 >
-> ###### 9 (#footnote-9s) Kraemer, Why Christianity of All Religions?, p. 105. {: #footnote-9e}
+> ###### 9 Kraemer, Why Christianity of All Religions?, p. 105. {#footnote-9e}
 >
-> ###### 10 (#footnote-10s) Note Jurji's comment on Islam, which ignores the idea of a redeemer "largely because Islam knew nothing of original sin and its founders and interpreters were oblivious to the problem of evil and sidestepped the need of the soul for forgiveness, a personal Saviour, and prayer as an eventful intercourse with the Eternal" (op. cit., p. 256). {: #footnote-10e}
+> ###### 10 Note Jurji's comment on Islam, which ignores the idea of a redeemer "largely because Islam knew nothing of original sin and its founders and interpreters were oblivious to the problem of evil and sidestepped the need of the soul for forgiveness, a personal Saviour, and prayer as an eventful intercourse with the Eternal" (op. cit., p. 256). {#footnote-10e}
 >
-> ###### 11 (#footnote-11s) Emil Brunner, The Christian Doctrine of the Church, Faith and the Consummation, trans. David Cairns and T. H. L. Parker (Philadelphia: Westminster Press, 1962), p. 7. {: #footnote-11e}
+> ###### 11 Emil Brunner, The Christian Doctrine of the Church, Faith and the Consummation, trans. David Cairns and T. H. L. Parker (Philadelphia: Westminster Press, 1962), p. 7. {#footnote-11e}
 >
-> ###### 12 (#footnote-12s) Ibid., p. 200. {: #footnote-12e}
+> ###### 12 Ibid., p. 200. {#footnote-12e}
 >
-> ###### 13 (#footnote-13s) The Christian Message in a Non-Christian World, p. 172. {: #footnote-13e}
+> ###### 13 The Christian Message in a Non-Christian World, p. 172. {#footnote-13e}
 >
-> ###### 14 (#footnote-14s) Ibid., p. 172. {: #footnote-14e}
+> ###### 14 Ibid., p. 172. {#footnote-14e}
 >
-> ###### 15 (#footnote-15s) Why Christianity of All Religions?, p. 94. {: #footnote-15e}
+> ###### 15 Why Christianity of All Religions?, p. 94. {#footnote-15e}
 >
-> ###### 16 (#footnote-16s) Philosophical Fragments, p. 22. {: #footnote-16e}
+> ###### 16 Philosophical Fragments, p. 22. {#footnote-16e}
 >
-> ###### 17 (#footnote-17s) Ibid., p. 22. {: #footnote-17e}
+> ###### 17 Ibid., p. 22. {#footnote-17e}
 >
-> ###### 18 (#footnote-18s) Ibid., p. 23. {: #footnote-18e}
+> ###### 18 Ibid., p. 23. {#footnote-18e}
 >
-> ###### 19 (#footnote-19s) Ibid., p. 24. {: #footnote-19e}
+> ###### 19 Ibid., p. 24. {#footnote-19e}
 >
-> ###### 20 (#footnote-20s) "Islam's doctrine of God knows nothing of a Mediator, and Koranic Christology though paying reverence to Jesus as man and messenger of God and as the Word and Spirit of Allah, forswears nevertheless the Incarnation and hence renders void the redemptive purpose of God. Indeed, this is the parting of the road between Islam and Christianity" (Jurji, op. cit., p. 247). {: #footnote-20e}
+> ###### 20 "Islam's doctrine of God knows nothing of a Mediator, and Koranic Christology though paying reverence to Jesus as man and messenger of God and as the Word and Spirit of Allah, forswears nevertheless the Incarnation and hence renders void the redemptive purpose of God. Indeed, this is the parting of the road between Islam and Christianity" (Jurji, op. cit., p. 247). {#footnote-20e}
 >
-> ###### 21 (#footnote-21s) Cf. Abdiyah Akbar Abdul-Haqq, Sharing your Faith with a Muslim, Minneapolis: Bethany Fellowship, 1980, pp. 50-66. {: #footnote-21e}
+> ###### 21 Cf. Abdiyah Akbar Abdul-Haqq, Sharing your Faith with a Muslim, Minneapolis: Bethany Fellowship, 1980, pp. 50-66. {#footnote-21e}
 >
-> ###### 22 (#footnote-22s) S. 3:4, Yusuf Ali Translation. {: #footnote-22e}
+> ###### 22 S. 3:4, Yusuf Ali Translation. {#footnote-22e}
 >
-> ###### 23 (#footnote-23s) Uniqueness is not an argument for truthfulness, necessarily. All religions are unique. However, the founders of other religions have more in common with one another than with Jesus. {: #footnote-23e}
+> ###### 23 Uniqueness is not an argument for truthfulness, necessarily. All religions are unique. However, the founders of other religions have more in common with one another than with Jesus. {#footnote-23e}
 >
-> ###### 24 (#footnote-24s) Op. cit., p. 126. {: #footnote-24e}
+> ###### 24 Op. cit., p. 126. {#footnote-24e}
 >
-> ###### 25 (#footnote-25s) Revelation and Reason, p. 220. {: #footnote-25e}
+> ###### 25 Revelation and Reason, p. 220. {#footnote-25e}
 
 <details markdown="1">
 <summary>Click here!</summary>
